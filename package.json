@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "main": "email_sender.js",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}

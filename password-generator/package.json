@@ -1,0 +1,6 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "generate-password": "^1.7.1"
+  }
+}
